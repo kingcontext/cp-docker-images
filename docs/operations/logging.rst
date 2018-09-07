@@ -39,7 +39,7 @@ Component Names
    :header: "Component", "Name"
    :widths: 20, 20
 
-   "ZooKeeper", "KAFKA"
+   "ZooKeeper", "ZOOKEEPER"
    "Kafka", "KAFKA"
    "Confluent Control Center", "CONTROL_CENTER"
    "Schema Registry", "SCHEMA_REGISTRY"
